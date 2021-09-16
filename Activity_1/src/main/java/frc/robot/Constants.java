@@ -27,7 +27,7 @@ public final class Constants {
     public static final int kControllerPort = 0;
 
     //TODO: 2. Change the joystick axis for arcade drive
-    public static final int kLeftJoyAxis = -1;
-    public static final int kRightJoyAxis = -1;
+    public static final int kLeftJoyAxis = 1;
+    public static final int kRightJoyAxis = 5;
   }
 }
